@@ -15,6 +15,8 @@ Programming Languages:
 Frameworks & Tools:
 
 ![Ionic](https://img.shields.io/badge/-Ionic-blue?logo=ionic&logoColor=white)  ![Capacitor](https://img.shields.io/badge/-Capacitor-teal?logo=capacitor&logoColor=white)  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?logo=android-studio&logoColor=white)   ![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)   
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)
+
 
 Web Technologies:
 
