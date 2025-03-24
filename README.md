@@ -1,4 +1,5 @@
 👋 Hi, I'm Nicolae Casian!
+
 🧑‍💻 About Me
 I’m a passionate third-year Computer Science student with a love for solving complex problems and creating innovative solutions. My journey in technology has been fueled by curiosity, determination, and a desire to make an impact.
 
@@ -32,7 +33,7 @@ Distributed systems, cloud computing, artificial intelligence, and open-source c
 1. TUD Lost and Found App
 Using Ionic, I’m developing a mobile application to streamline the process of reporting and finding lost items on campus. This project aims to enhance connectivity and efficiency within the campus community.
 
- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) ![Ionic](https://img.shields.io/badge/-Ionic-blue?logo=ionic&logoColor=white)  ![Capacitor](https://img.shields.io/badge/-Capacitor-teal?logo=capacitor&logoColor=white)  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?logo=android-studio&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)  
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) ![Ionic](https://img.shields.io/badge/-Ionic-blue?logo=ionic&logoColor=white)  ![Capacitor](https://img.shields.io/badge/-Capacitor-teal?logo=capacitor&logoColor=white)  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?logo=android-studio&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
  
 2. Purchase Order System
 With the power of Django, I’m building a system to manage and optimize purchase orders. This involves creating a robust backend to ensure seamless operations and data integrity.
